@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 
 orbs:
   redhat-openshift: circleci/redhat-openshift@0.2.0
