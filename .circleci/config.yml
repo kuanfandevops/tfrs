@@ -39,7 +39,7 @@ jobs:
           server-address: $OC_SERVER_ADDRESS
           token: $OC_TOKEN
       - run:
-          name: "test oc connection to path finder"
+          name: test oc connection to path finder
           command: oc projects            
 workflows:
   version: 2
